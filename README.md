@@ -1,16 +1,28 @@
-### Hi there 👋
+## 🔸StingRay validator
 
-<!--
-**vulinh0795/vulinh0795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an individual validator and blockchain enthusiast.
 
-Here are some ideas to get you started:
+## 🔸My current and previous Testnet validators and nodes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ironfish, Sinso, Muon Network, Sei, Sui, Avail, Side Protocol, Self Chain, Hedge, Aligned Layer ...
+
+## 🔸Hardware:
+
+I RENT THE SYSTEMS THROUGH HETZNER AND OTHER SERVER
+
+AMD Ryzen™ 7 7700
+Ram 64G DDR5
+Disk: 2TB NVMe
+Guaranteed Bandwidth: 1 Gbit/s
+
+## 🔸Socials:
+
+GitHub https://github.com/vulinh0795
+
+Twitter https://twitter.com/vulinh0795
+
+TG https://t.me/vulinh07951
+
+Discord vulinh
+
+E-mail: tamphan0601@gmail.com
